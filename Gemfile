@@ -44,3 +44,5 @@ end
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 gem 'zurb-foundation'
+gem 'pg', group: :production
+gem 'rails_12factor', group: :production
